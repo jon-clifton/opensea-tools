@@ -1,7 +1,7 @@
 import requests
 import time 
 
-projects = ['clonex-mintvial','world-of-women-nft','bossbeauties','catc','chubbiverse-frens','cdao','galaxyeggs9999','gauntlets']
+projects = ['clonex-mintvial','clonex','adidasoriginals','terraforms','world-of-women-nft','bossbeauties','headdao','cdao','galaxyeggs9999','gauntlets','goatsoup','5555-hunter-orrell']
 
 print('\n FLOOR PRICES\n')
 
@@ -20,4 +20,4 @@ for project in projects:
 
     time.sleep(1)
 
-print('\n Done!')
+print(' Done!')
